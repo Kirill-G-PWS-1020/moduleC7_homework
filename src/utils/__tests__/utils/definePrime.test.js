@@ -1,4 +1,4 @@
-import { definePrime } from "../../utils/definePrime.js";
+import { definePrime } from "../../definePrime.js";
 
 xdescribe("tests for definePrime function", () => {
   const simple = 17;
